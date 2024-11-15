@@ -1,0 +1,17 @@
+{
+  "name": "leo",
+  "version": "1.0.0",
+  "description": "Api node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hercules",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.21.1",
+    "fs-extra": "^11.2.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
